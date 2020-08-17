@@ -8,7 +8,7 @@ Nie wypieram się bycia StackOverDeveloperem, ale jestem grymaśny i kodu CTRL+C
 
 Ostatnio zgłębiam WCAG 2.1 na potrzeby biblioteki gdzie pracuję, więc naklepałem dwa narzedzia z tym związane. 
 
-#### I to na tyle pierwszego przekazu do zobaczenia na szlaku!
+**I to na tyle pierwszego przekazu do zobaczenia na szlaku!**
 
 Jako organizator zazwyczaj jestem na [WordUpach](https://wordup.waw.pl "Strona warszawskiego WordUpa") w Warszawie. Masz chęć to wpadnij przybij piątkę i pogadaj. Niestery spotkania w realu wrócą dopiero jak COVID odpuści :(
 
