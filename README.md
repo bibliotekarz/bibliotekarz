@@ -1,12 +1,8 @@
 ## No cześć.
 
-Ćwiczę trochę kodowanie. Bakcyl został mi wprogramowany przez BASIC na C64, potem nie było czasu na zabawę. Jako boomer wróciłem i zainteresowałem się pythonem bo podoba mi się ład jaki on narzuca na kod. Czasem naklepię w nim więcej, czasem mniej ale skoro widzę błędy w poprzednich projektach to znaczy że powoli ale idę do przodu.
+Mam potrzebę dzielenia się, więc czasem wrzucam tu projekty które uważam że mogą być przydatne dla kogoś, choć są klepane pode mnie więc to założenie niekoniecznie musi sie sprawdzić. Pomimo zauroczenia pythonem klepię w tym co jest według mnie bardziej zasadne jako rozwiązanie problemu. Tego co klepię czasem w robocie (nawet na własne potrzeby) tu nie znajdziecie :]
 
-Mam potrzebę dzielenia się, wrzucam tu projekty które uważam że mogą być przydatne dla kogoś, choć są klepane pode mnie więc to założenie niekoniecznie musi sie sprawdzić. Pomimo zauroczenia pythonem klepię w tym co jest według mnie bardziej zasadne jako rozwiązanie problemu. Pewnie wszystkie jednolinijkowce też by sie dało ogarnąć pythonem, ale są zadania w których np. BASH się lepiej sprawdzi. 
-
-**I to na tyle pierwszego przekazu do zobaczenia na szlaku!**
-
-Jako organizator zazwyczaj jestem na [WordUpach](https://wordup.waw.pl "Strona warszawskiego WordUpa") w Warszawie. Masz chęć to wpadnij przybij piątkę i pogadaj. Niestety spotkania w realu wrócą dopiero jak COVID odpuści :(
+Jako organizator zazwyczaj jestem na [WordUpach](https://wordup.waw.pl "Strona warszawskiego WordUpa") w Warszawie. Masz chęć to wpadnij przybij piątkę i pogadaj.
 
 
 
