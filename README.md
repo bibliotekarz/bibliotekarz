@@ -3,7 +3,7 @@
 Czasem wrzucam tu projekty które uważam że mogą być przydatne dla kogoś, choć są klepane pode mnie więc to założenie niekoniecznie musi się sprawdzić.
 
 
-<br> ![Facebook](https://img.shields.io/badge/bibliotekarz-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![LinkedIn](https://img.shields.io/badge/bibliotekarz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/bibliotekarz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![WordPress](https://img.shields.io/badge/bibliotekarz-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+<br> ![Facebook](https://img.shields.io/badge/bibliotekarz-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![LinkedIn](https://img.shields.io/badge/bibliotekarz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/bibliotekarz-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white) ![WordPress](https://img.shields.io/badge/bibliotekarz-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 
 <!--
